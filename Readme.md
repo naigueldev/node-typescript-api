@@ -1,6 +1,8 @@
 # Node.js API com Typescript
 -----------
-Código do curso 👉 [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT](https://www.nodejs-typescript-api.com/curso-gratis)
+Curso grátis 👉 [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT](https://www.nodejs-typescript-api.com/curso-gratis)
+
+![Imagem do curso](https://i.ytimg.com/vi/W2ld5xRS3cY/maxresdefault.jpg)
 
 Durante o curso é criado uma API para calcular a melhor condição de surf entre varias praias.
 
